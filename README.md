@@ -36,7 +36,7 @@ flower-shop/<br>
 
 ⚙️ Installation & Setup:<br>
 1. Clone the repository:
-git clone https://github.com/your-username/flower-shop.git<br>
+git clone https://github.com/Ankitmaurya30/Flower-Shop-Fresh-Beautiful-Flowers<br>
 2. Navigate to the project folder:
 cd flower-shop
 3. Open index.html in your browser
